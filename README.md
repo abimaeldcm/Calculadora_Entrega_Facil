@@ -1,6 +1,6 @@
 # Calculadora Entrega Fácil - IFood
 
-A Calculadora Entrega Fácil é uma ferramenta desenvolvida para o analistas com o objetivo de calcular os valores dos repasses para os nossos parceiros. Esse cálculo é realizado de forma automática pela calculadora, facilitando o processo de determinar os valores de repasse.
+A Calculadora Entrega Fácil é uma ferramenta desenvolvida para o analistas da célula de Entrega Fácil com o objetivo de calcular os valores dos repasses para os nossos parceiros. Esse cálculo é realizado de forma automática pela calculadora, facilitando o processo de determinar os valores de repasse.
 
 ## Funcionalidades
 
