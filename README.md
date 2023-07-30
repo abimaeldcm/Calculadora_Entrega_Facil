@@ -10,5 +10,6 @@ A Calculadora Entrega Fácil é uma ferramenta desenvolvida para o analistas com
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: Python..
+- Linguagem de Programação: Python.
+- Bibliotecas Tkinter e customTkinter.
 - Ambiente de Desenvolvimento: Visual Studio Code 
